@@ -3,12 +3,5 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## Notas
-Pueden hacer lo que quieran...
+## Estos cambios son nuevos.
 
-
-### Actualizado desde Git Hub.
-
-Este es un mensaje actualizado desde git hub : Leonardo Rubio Juarez.
-
-Hola mundo : Leonardo Rubio Juarez.
